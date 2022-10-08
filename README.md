@@ -296,7 +296,7 @@ For more information about payment integration see the [developer portal](https:
 Please find the relevant documentation about payment integration there.
 
 ## License  
-See our License Agreement at: https://www.novalnet.com/payment-plugins/free/license
+See our License Agreement at: https://www.novalnet.com/payment-plugins-free-license/
 
 ## Documentation & Support
 For more information about the omni Payment Integration by Novalnet, please get in touch with us: <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a> or +49 89 9230683-20<br>
